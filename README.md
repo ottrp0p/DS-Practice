@@ -1,6 +1,6 @@
 # Introduction
 
-This repo is to document  AY's Data Science practice starting Nov 2025. The overall structure will be using kaggle datasets to practice with. 
+This repo is to document AY's Data Science practice starting Nov 2025. The overall structure will be using kaggle datasets to practice with. 
 
 
 # Structure 
