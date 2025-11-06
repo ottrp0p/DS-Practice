@@ -1,0 +1,64 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.jsonl
+*.parquet
+*.feather
+*.hdf5
+*.h5
+*.pkl
+*.pickle
+*.db
+*.sqlite
+*.sqlite3
+*.tsv
+*.dat
+*.data
+*.arrow
+
+# Compressed data files
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Large files
+*.bin
+*.model
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
